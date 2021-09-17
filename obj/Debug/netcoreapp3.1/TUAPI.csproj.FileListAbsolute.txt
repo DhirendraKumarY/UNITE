@@ -192,3 +192,5 @@ D:\UNITE\obj\Debug\netcoreapp3.1\TUAPI.csproj.CopyComplete
 D:\UNITE\obj\Debug\netcoreapp3.1\TUAPI.dll
 D:\UNITE\obj\Debug\netcoreapp3.1\TUAPI.pdb
 D:\UNITE\obj\Debug\netcoreapp3.1\TUAPI.genruntimeconfig.cache
+D:\UNITE\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\UNITE\bin\Debug\netcoreapp3.1\WebDriver.dll
